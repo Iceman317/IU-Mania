@@ -1,0 +1,13 @@
+IU Mania Slot Game
+Core game manager placeholder
+
+Theme:
+- Hoosiers
+- Undefeated season
+- Heisman Trophy
+- Championship Wins
+
+Coming next:
+- Reel logic
+- Symbol mapping
+- Coin system
